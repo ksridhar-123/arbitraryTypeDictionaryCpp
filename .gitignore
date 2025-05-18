@@ -36,3 +36,6 @@
 *x64/
 *x86/
 *x86_64/
+*Debug/
+*Release/
+*.hint
